@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ronan</h1>
 <h3 align="center">I use this account for shitposting</h3>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=9t5csh1jqe6l7neqv3i9o4lfr&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=9t5csh1jqe6l7neqv3i9o4lfr&redirect=true)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=e5g&label=Profile%20views&color=0e75b6&style=flat" alt="e5g" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=e5g" alt="e5g" /></a> </p>
