@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Ronan</h1>
 <h3 align="center">I use this account for shitposting</h3>
 
+<body>
+<h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
+<br>
+<div align="center">
+<!-- <a href="https://discord.com/users/850942857807134720" > -->
+  <a href="https://laby.net/@liebesschwur" >
+   <img src="https://lanyard.cnrad.dev/api/202740603790819328?idleMessage=Cause,%20baby,%20tonight%20we're%20beautiful%20now&animated=true&theme=dark&borderRadius=20&hideBadges=true&hideDiscrim=true&bg=212121"  />
+  </a>
+  <br>
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=9t5csh1jqe6l7neqv3i9o4lfr&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=9t5csh1jqe6l7neqv3i9o4lfr&redirect=true)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=e5g&label=Profile%20views&color=0e75b6&style=flat" alt="e5g" /> </p>
