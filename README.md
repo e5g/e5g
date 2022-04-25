@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ronanalt1@gmail.com**
 
-- ⚡ Fun fact **Im pretty lazy**
+- ⚡ Fun fact **Im pretty lazy, also just as a side note I am not going to be doing much community contribution on this account. If you wish to actually contact me in order to seek help on a project shoot me an email**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
