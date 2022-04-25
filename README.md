@@ -1,16 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ronan</h1>
 <h3 align="center">I use this account for shitposting</h3>
 
-<body>
-<br>
-<div align="center">
-<!-- <a href="https://discord.com/users/850942857807134720" > -->
-  <a href="https://laby.net/@liebesschwur" >
-   <img src="[![Discord Presence](https://lanyard.cnrad.dev/api/850942857807134720)](https://discord.com/users/850942857807134720)"  />
-  </a>
-  <br>
+[![Discord Presence](https://lanyard.cnrad.dev/api/850942857807134720)](https://discord.com/users/850942857807134720)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=9t5csh1jqe6l7neqv3i9o4lfr&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=9t5csh1jqe6l7neqv3i9o4lfr&redirect=true)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=e5g&label=Profile%20views&color=0e75b6&style=flat" alt="e5g" /> </p>
 
